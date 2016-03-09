@@ -1,5 +1,6 @@
 <a href="https://github.com/forkliftjs"><img width="192" height="192" src="https://github.com/ForkliftJS/docs/raw/master/images/logos/logo.png" alt="ForkliftJS" /></a>
-# Docs
+
+[![Join the chat at https://gitter.im/ForkliftJS/forkliftjs](https://badges.gitter.im/ForkliftJS/forkliftjs.svg)](https://gitter.im/ForkliftJS/forkliftjs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Usage instructions
 * Install ForkliftJS CLI globally `npm install -g forkliftjs-cli` (https://github.com/ForkliftJS/forkliftjs-cli)
