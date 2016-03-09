@@ -107,14 +107,14 @@ forklift cleanBower | Cleans the bower folder
 * yuidoc.json (YUIDoc settings)
 
 ### Example (Out-of-date)
-![How to structure my project](https://raw.githubusercontent.com/just-bi/tooling/master/tooling_docs/Structure.png)
+![How to structure my project](https://github.com/ForkliftJS/docs/raw/master/images/structure/structure.png)
 
 ## How do I work with modules?
 ### Exporting
-![How to export modules](https://raw.githubusercontent.com/just-bi/tooling/master/tooling_docs/Exports.png)
+![How to export modules](https://github.com/ForkliftJS/docs/raw/master/images/code_examples/exports.png)
 
 ### Importing
-![How to import modules](https://raw.githubusercontent.com/just-bi/tooling/master/tooling_docs/Imports.png)
+![How to import modules](https://github.com/ForkliftJS/docs/raw/master/images/code_examples/imports.png)
 
 ### Reference
 Topic | URL
